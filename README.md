@@ -1,4 +1,7 @@
 # 🎮 Jogo: Adivinha o Número
+## 📸 Demonstração
+
+![Jogo Adivinha o Número](jogo.png)
 
 ## 📌 Descrição
 
